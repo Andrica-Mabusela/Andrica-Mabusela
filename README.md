@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋 My name is Andrica Mabusela
+=================================
 
-<!--
-**Andrica-Mabusela/Andrica-Mabusela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software developer
+-------------------------
 
-Here are some ideas to get you started:
+I have been coding for a little over 4 years now, and i am very passionate about the industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in South Africa, Johannesburg
+*   ✉️  You can contact me at [programmerandy420@gmail.com](mailto:programmerandy420@gmail.com)
+*   🧠  I'm learning angular, react and docker
+*   🤝  I'm open to collaborating on any projects using mean stack or mern stack
+*   ⚡  i can beat all the members of the avengers.
