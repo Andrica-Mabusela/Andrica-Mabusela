@@ -32,13 +32,3 @@ I have been coding for a little over 4 years now, and i am very passionate about
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### work Experience
-<p>
-<a href="https://www.thedigitalacademy.co.za/" target="_blank" rel="noreferrer"><img src="https://www.thedigitalacademy.co.za/assets/DA/img/DA2.png" width="36" height="36" alt="Figma" /></a> 
-  6 Months
-  </p>
-  
-  <p>
-<a href="https://www.absa.co.za/business/" target="_blank" rel="noreferrer"><img src="https://www.absa.co.za/content/dam/south-africa/absa/Iconography/Absa-logo-grey.jpg" width="36" height="36" alt="Figma" /></a> 
-  1+ Years
-  </p>
